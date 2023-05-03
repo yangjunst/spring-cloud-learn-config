@@ -9,9 +9,9 @@ spring:
     name: spring-cloud-learn-config-dev
 ---
 spring:
-  profiles: test   #测试环境
+  profiles: rest   #测试环境
   application: 
-    name: spring-cloud-learn-config-test
+    name: spring-cloud-learn-config-rest
 #  请保存为UTF-8格式
  
  

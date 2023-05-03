@@ -12,16 +12,16 @@ spring:
 eureka: 
   client: 
     service-url: 
-      defaultZone: http://eureka-dev.com:7001/eureka/   
+      defaultZone: http://eureka-dev.com:7777/eureka/   
 ---
 server: 
   port: 8202 
 spring:
-  profiles: test
+  profiles: rest
   application: 
     name: spring-cloud-learn-config-client
 eureka: 
   client: 
     service-url: 
-      defaultZone: http://eureka-test.com:7001/eureka/
+      defaultZone: http://eureka-rest.com:8888/eureka/
  
