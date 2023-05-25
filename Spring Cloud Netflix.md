@@ -43,4 +43,4 @@ select * from user where name == '小明'
 | eureka | 低   | 高     |
 | nacos  | 高   | 高     |
 
-<img src="https://pic4.zhimg.com/80/v2-20f11ec13d3bd3cd708986d69ba8e26b_720w.webp" width="500" height="300">
+<img src="https://avatars.githubusercontent.com/u/32858349?v=4" width="500" height="300">
